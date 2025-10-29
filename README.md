@@ -7,7 +7,7 @@ My first repository
 2. Sound of Music
 3. Lord of the Rings
 
-## 3 Favorite Series
+# 3 Favorite Series
 
 1. My Hero Academia
 2. Itaewon class
